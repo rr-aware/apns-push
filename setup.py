@@ -21,5 +21,4 @@ setup(
         "Topic :: System :: Networking",
         "Topic :: Software Development :: Libraries"
     ],
-    python_requires=">=3.7",
 )
